@@ -21,11 +21,4 @@ typedef long long unsigned int ll;
 #define PI (acos(-1))
 #define rep(i, n) for (int i = 0; i < n; i++)
 
-int main() {
-  int a, b, c;
-  string N;
-  cin >> a >> b >> c >> N;
-  cout << a + b + c << " " << N << endl;
-
-  return 0;
-}
+int main() { return 0; }

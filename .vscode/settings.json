@@ -1,5 +1,6 @@
 {
   "files.associations": {
+    "*.gtpl": "html",
     "vector": "cpp",
     "iostream": "cpp",
     "ostream": "cpp",
@@ -69,6 +70,7 @@
     "tuple": "cpp",
     "typeindex": "cpp",
     "valarray": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "queue": "cpp"
   }
 }

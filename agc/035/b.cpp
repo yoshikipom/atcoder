@@ -21,16 +21,4 @@ typedef long long unsigned int ll;
 #define PI (acos(-1))
 #define rep(i, n) for (int i = 0; i < n; i++)
 
-int main() {
-  int a, b;
-  cin >> a >> b;
-  int c = a * b;
-  if (c % 2 == 0) {
-    cout << "Even" << endl;
-  } else if (c % 2 == 1) {
-    cout << "Odd" << endl;
-  } else {
-    cout << "error" << endl;
-  }
-  return 0;
-}
+int main() { return 0; }
