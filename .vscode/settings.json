@@ -72,5 +72,6 @@
     "valarray": "cpp",
     "stack": "cpp",
     "queue": "cpp"
-  }
+  },
+  "python.pythonPath": "/Users/yoshiki/.pyenv/versions/atcoder/bin/python"
 }
