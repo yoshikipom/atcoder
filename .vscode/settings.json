@@ -73,5 +73,5 @@
     "stack": "cpp",
     "queue": "cpp"
   },
-  "python.pythonPath": "/Users/yoshiki/.pyenv/versions/atcoder/bin/python"
+  "python.pythonPath": "/Users/yoshiki/.pyenv/shims/python"
 }
