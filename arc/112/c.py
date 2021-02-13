@@ -1,5 +1,3 @@
-# WA
-
 import sys
 from io import StringIO
 import unittest
@@ -46,7 +44,7 @@ def dfs(cur, d):
             y += result[0]
             x += result[1]
 
-    c = len(results_tmp) % 2 == 0
+    c = len(results_tmp) % 2 == 1
     for i in range(len(results_tmp2)):
         result = results_tmp2[i]
         if c:
