@@ -72,6 +72,5 @@
     "valarray": "cpp",
     "stack": "cpp",
     "queue": "cpp"
-  },
-  "python.pythonPath": "/Users/yoshiki/.pyenv/shims/python"
+  }
 }
