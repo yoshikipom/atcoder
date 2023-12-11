@@ -1,5 +1,5 @@
-# atcorder
+# atcoder
 https://atcoder.jp/?lang=ja
 
-# mypage
+# my page
 https://atcoder.jp/users/yoshiki_shino
