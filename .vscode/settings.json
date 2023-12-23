@@ -72,5 +72,6 @@
     "valarray": "cpp",
     "stack": "cpp",
     "queue": "cpp"
-  }
+  },
+  "python.defaultInterpreterPath": "/Users/yoshiki/.asdf/shims"
 }
